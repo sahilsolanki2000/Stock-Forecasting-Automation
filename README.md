@@ -15,7 +15,6 @@ This is a Streamlit application that allows users to perform stock price forecas
 1. Clone the repository:
     ```sh
     git clone https://github.com/sahilsolanki2000/Stock-Forecasting-Automation.git
-    cd stock-forecasting-automation
     ```
 
 2. Create and activate a virtual environment:

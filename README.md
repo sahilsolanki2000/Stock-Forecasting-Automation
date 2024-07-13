@@ -62,10 +62,6 @@ This is a Streamlit application that allows users to perform stock price forecas
 - statsmodels
 - plotly
 
-## Example
-
-![Example](example.png)
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
@@ -81,4 +77,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out to me at [ss628800@gmail.com](mailto:ss628800@gmail.com).

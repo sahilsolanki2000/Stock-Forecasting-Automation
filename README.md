@@ -14,7 +14,7 @@ This is a Streamlit application that allows users to perform stock price forecas
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stock-forecasting-automation.git
+    git clone https://github.com/sahilsolanki2000/Stock-Forecasting-Automation.git
     cd stock-forecasting-automation
     ```
 
@@ -70,10 +70,6 @@ This is a Streamlit application that allows users to perform stock price forecas
 - [pmdarima](http://alkaline-ml.com/pmdarima/)
 - [Statsmodels](https://www.statsmodels.org/)
 - [Plotly](https://plotly.com/)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## Contact
 
